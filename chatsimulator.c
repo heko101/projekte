@@ -10,7 +10,7 @@ int main() {
     int benutzer = 0;
 
     printf(">>> Hier befindet sich der Chat-Simulator (^.^) <<<\n");
-    printf("Hier kann man selber eingeben was der User sagen kann, dient als Beispiel wie manche Streaming-Plattformen (in einem simplen Format) laufen.\n");
+    printf("Hier kann man selber eingeben was der User sagen kann (in einem simplen Format).\n");
     printf("Gib ein was du schreiben willst.\n");
     printf("Gib 'exit' ein wenn du den Chat beenden willst.\n");
 
@@ -41,5 +41,6 @@ int main() {
 
     return 0;    
        
+
 
 }
