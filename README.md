@@ -31,6 +31,10 @@ Beim Sudokulöser habe ich einen Sudoku schon eingegeben wo manche leeren Felder
    bash:
    gcc sudokulöser.c -o sudokulöser./sudokulöser
 
+### MIT-Lizenz
+Die Programme sind Teil meiner Bewerbungsunterlagen, ich bitte jedoch um Kontaktaufnahme, falls Sie es außerhalb dieses Kontexts verwenden möchten.
+
+
 
 
 
