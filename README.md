@@ -20,7 +20,7 @@ Beim Sudokulöser habe ich einen Sudoku schon eingegeben wo manche leeren Felder
 -Eingabe über Terminal<br/>
 
 🌱Sudokulöser<br/>
--der fertige 9x9 Sudoku wird im Anschluss bei der Ausgabe im Terminal dargestellt, mit dem Sudoku was im Code steht und befüllt wird <br/>
+-der fertige 9x9 Sudoku wird im Anschluss bei der Ausgabe im Terminal dargestellt, mit dem alten Sudoku was im Code steht und befüllt wird <br/>
 
 
 ### ☁️Kompilieren und Ausführen
